@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 4th-semester, Computer Science Student With a Strong Passion For Web Development. Over a Development I Have Skill in Python libraries such as Numpy, Panda . Currently Expanding My Skills in Frontend And Backend Technologies To Become a Full Stack Developer , And Make Foundation in AIML , DEEP LEARNING, Currently I doing internship at CAMPUS SKILL . this is small Foundation of make  Career Better And Strong .
+I'm a 5th-semester, Computer Science Student With a Strong Passion For Web Development. Over a Development I Have Skill in Python libraries such as Numpy, Panda . Currently Expanding My Skills in Frontend And Backend Technologies To Become a Full Stack Developer , And Make Foundation in AIML , DEEP LEARNING, Currently I doing internship at CAMPUS SKILL . this is small Foundation of make  Career Better And Strong .
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@ I'm a 4th-semester, Computer Science Student With a Strong Passion For Web Devel
 ![](https://github-contributor-stats.vercel.app/api?username=himesh-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=himesh-07&icon=7&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=himesh-07&icon=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
