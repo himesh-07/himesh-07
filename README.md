@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 5th-semester, Computer Science Student With a Strong Passion For Web Development. Over a Development I Have Skill in Python libraries such as Numpy, Panda . Currently Expanding My Skills in Frontend And Backend Technologies To Become a Full Stack Developer , And Make Foundation in AIML , DEEP LEARNING, Currently I doing internship at CAMPUS SKILL . this is small Foundation of make  Career Better And Strong .
+I'm a 5th-semester, Computer Science Student With a Strong Passion For Web Development. Over a Development I Have Skill in Python libraries such as Numpy, Panda . Currently Expanding My Skills in Frontend And Backend Technologies To Become a Full Stack Developer , And Make Foundation in AIML , DEEP LEARNING, Currently I doing internship at Spearmint Technologies  . this is small Foundation of make  Career Better And Strong .
 
 
 ## 🌐 Socials:
